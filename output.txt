@@ -1,0 +1,18 @@
+Embauche de Nadia : 4500.0
+Saisie ignor?e : "abc" n'est pas un montant
+Erreur : salaire invalide : -800.0
+Embauche de Leila : 3800.0
+Erreur : ?quipe compl?te (capacit? : 4)
+Tentatives : 5, employ?s dans le service : 4
+0 : Permanent[matricule=E5, nom=Leila, agence=Casablanca, salaire=3800.0]
+1 : Permanent[matricule=E3, nom=Nadia, agence=Casablanca, salaire=4500.0]
+2 : Commercial[matricule=E1, nom=Karim, agence=Rabat, fixe=3000.0, chiffreAffaires=40000.0]
+3 : ChefProjet[matricule=E2, nom=Salma, agence=Casablanca, salaire=6500.0]
+Masse salariale : 19800.0
+Apr?s augmentation : Permanent[matricule=E5, nom=Leila, agence=Casablanca, salaire=3990.0]
+Erreur : taux invalide : 0.5 [valeur re?ue : 0.5]
+Erreur : indice invalide : 7
+? payer : Facture F-102 (Bureau Plus) : 450.0
+? payer : Permanent[matricule=E3, nom=Nadia, agence=Casablanca, salaire=4500.0]
+Total ? payer : 4950.0
+Nombre d'employ?s cr??s : 6
